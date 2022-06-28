@@ -10,7 +10,7 @@ public class SchnappiBot
 {
 	public static void main(String[] args) throws LoginException
 	{
-		JDABuilder jda = JDABuilder.createDefault("OTkxMjQxMDMzODQ3NDIzMDI4.Gcb5NT.zxGqqKuKh7q_O-Q7ekhHEZI4CPwt4ExonFyMHw");
+		JDABuilder jda = JDABuilder.createDefault("OTkxMjY0NzYyNDg4OTUwODA0.Gg3FbX.pvwplF7iE3mC_CS1UOFS07ssnqyc-SFIlagwgM");
 		jda.setActivity(Activity.playing("Schnappi schnappi"));
 		jda.setStatus(OnlineStatus.IDLE);
 		jda.addEventListeners(new Commands());
