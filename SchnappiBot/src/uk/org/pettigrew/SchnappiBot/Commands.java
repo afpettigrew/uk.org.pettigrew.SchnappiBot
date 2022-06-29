@@ -15,6 +15,18 @@ public class Commands extends ListenerAdapter{
 			{
 				event.getChannel().sendMessage("Schnappi schnappi das kleines Krokodil").queue();
 			}
+			if(args[i].equalsIgnoreCase("*pumps*"));
+			{
+				event.getChannel().sendMessage("Schnappi schnappi das kleines Krokodil").queue();
+			}
+			if(args[i].equalsIgnoreCase("**pumps**"))
+			{
+				event.getChannel().sendMessage("Schnappi schnappi das kleines Krokodil").queue();
+			}
+			if(args[i].equalsIgnoreCase("***pumps***"))
+			{
+				event.getChannel().sendMessage("Schnappi schnappi das kleines Krokodil").queue();
+			}
 		}
 	}
 
