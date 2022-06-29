@@ -1,0 +1,7 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>uk.org.pettigrew.adam</groupId>
+  <artifactId>SchnappiBot</artifactId>
+  <version>0.7</version>
+</project>
