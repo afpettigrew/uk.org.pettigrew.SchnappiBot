@@ -1,1 +1,1 @@
-web: java -jar Schnappi2.jar
+worker: java -jar Schnappi2.jar
